@@ -51,12 +51,6 @@ Download the APK (Android): [FitFoot APK](https://github.com/knilesh2212/FitFoot
    flutter run
    ```
 
-## Device Preview
-Experience the app live: [FitFoot Live Preview](https://shoesapp-9929f.web.app/)
-
-## App Download
-Download the APK: [FitFoot APK](https://github.com/knilesh2212/FitFoot/raw/main/Fitfoot.apk)
-
 ## Future Enhancements
 - Add filtering and sorting options.
 - Integrate payment gateway for checkout.
