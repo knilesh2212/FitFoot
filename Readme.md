@@ -1,4 +1,4 @@
-# FitFoot (Shopping App)
+# FitFoot (Shopping App UI)
 
 A sleek and intuitive Flutter application showcasing a user-friendly UI for browsing shoes, adding them to a cart, and removing items from the cart.
 
